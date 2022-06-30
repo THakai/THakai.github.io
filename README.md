@@ -11,7 +11,7 @@
 <body>
     <h1>Khon Kaen University</h1>
     <div id="picture">
-        <img src="images/kku.jpg" alt="This is KKU logo"/>
+        <img src="images/kku.jpg" alt="This is KKU logo" width="500" height="600"/>
         <figcaption><em>KKU LOGO</em></figcaption>
     </div>
     <ul>
