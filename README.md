@@ -9,6 +9,7 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 </head>
 <body>
+    <h1><a href ="./profile.html">PROFILE</a></h1>
     <h1>Khon Kaen University</h1>
     <div id="picture">
         <img src="images/kku.jpg" alt="This is KKU logo" width="500" height="600"/>
